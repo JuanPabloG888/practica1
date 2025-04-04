@@ -1,3 +1,4 @@
 # practica1
 Mi primer repositorio
-Primera modificacion
+Primera modificación
+Segunda Modificación de primer conflicto
